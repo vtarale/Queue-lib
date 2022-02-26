@@ -7,7 +7,7 @@ import queue_lib.queue as queue
 ```
 init
 ```python
-q = Queue()
+q = queue.Queue()
 ```
 some functions
 ```python
